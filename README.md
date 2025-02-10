@@ -10,17 +10,6 @@ This repository showcases a collection of Python projects developed to enhance p
 - **Coffee Machine Simulator:** A simulation of a coffee machine that manages resources and processes drink orders.
 - **Snake Game:** A classic snake game implemented using Python's `turtle` module.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Project Descriptions](#project-descriptions)
-  - [Flashcard Application](#flashcard-application)
-  - [Coffee Machine Simulator](#coffee-machine-simulator)
-  - [Snake Game](#snake-game)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. **Clone the Repository:**
